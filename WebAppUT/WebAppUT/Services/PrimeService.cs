@@ -26,5 +26,17 @@ namespace WebAppUT.Services
 
             throw new NotImplementedException("Please create a test first");
         }
+
+        public async Task<bool> IsPrimeAsync(int candidate)
+        {
+            if (candidate < 2)
+            {
+                return false;
+            }
+
+            await Task.Delay(1000);
+
+            throw new NotImplementedException("Please create a test first");
+        }
     }
 }

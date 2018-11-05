@@ -6986,10 +6986,11 @@
       ]
     },
     "Newtonsoft.Json/11.0.2": {
-      "sha512": "IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "sha512": "znZGbws7E4BA9jxNZ7FuiIRI3C9hrgatVQSTKhIYZYNOud4M5VfGlTYi6RdYO5sQrebFuF/g9UEV3hOxDMXF6Q==",
       "type": "package",
       "path": "newtonsoft.json/11.0.2",
       "files": [
+        ".signature.p7s",
         "LICENSE.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
@@ -9940,11 +9941,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vahek\\Source\\Repos\\test\\WebAppUT\\WebAppUT\\WebAppUT.csproj",
+      "projectUniqueName": "C:\\Users\\vahek\\source\\repos\\test\\WebAppUT\\WebAppUT\\WebAppUT.csproj",
       "projectName": "WebAppUT",
-      "projectPath": "C:\\Users\\vahek\\Source\\Repos\\test\\WebAppUT\\WebAppUT\\WebAppUT.csproj",
+      "projectPath": "C:\\Users\\vahek\\source\\repos\\test\\WebAppUT\\WebAppUT\\WebAppUT.csproj",
       "packagesPath": "C:\\Users\\vahek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vahek\\Source\\Repos\\test\\WebAppUT\\WebAppUT\\obj\\",
+      "outputPath": "C:\\Users\\vahek\\source\\repos\\test\\WebAppUT\\WebAppUT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9957,11 +9958,8 @@
         "net461"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 17.2\\Components\\System\\Components\\packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.devexpress.com/3WoXwNXMTDRpgkwNEKoBjwA2FLIVFXvH5EkncVIdo2pO2bUNub/api": {},
-        "https://silverbush.pkgs.visualstudio.com/_packaging/DevReport/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net461": {

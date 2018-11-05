@@ -17,11 +17,19 @@ namespace UnitTestProject1
         {
             _primeService = new PrimeService();
         }
-
+        
         [TestMethod]
         public void ReturnFalseGivenValueOf1()
         {
             var result = _primeService.IsPrime(1);
+
+            Assert.IsFalse(result, "1 should not be prime");
+        }
+
+        [TestMethod]
+        public async Task ReturnFalseGivenValueOf1Async()
+        {
+            var result = await _primeService.IsPrimeAsync(1);
 
             Assert.IsFalse(result, "1 should not be prime");
         }

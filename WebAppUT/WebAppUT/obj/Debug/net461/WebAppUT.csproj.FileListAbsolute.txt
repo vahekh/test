@@ -743,3 +743,4 @@ C:\Users\vahek\source\repos\test\WebAppUT\WebAppUT\obj\Debug\net461\WebAppUT.Vie
 C:\Users\vahek\source\repos\test\WebAppUT\WebAppUT\obj\Debug\net461\WebAppUT.csproj.CopyComplete
 C:\Users\vahek\source\repos\test\WebAppUT\WebAppUT\obj\Debug\net461\WebAppUT.exe
 C:\Users\vahek\source\repos\test\WebAppUT\WebAppUT\obj\Debug\net461\WebAppUT.pdb
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppUT\obj\Debug\net461\WebAppUT.csprojAssemblyReference.cache
