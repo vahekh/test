@@ -22,6 +22,8 @@ namespace WebAppR
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
+            services.AddSignalR();
+
             // In production, the React files will be served from this directory
             services.AddSpaStaticFiles(configuration =>
             {
@@ -45,6 +47,11 @@ namespace WebAppR
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseSpaStaticFiles();
+
+            app.UseSignalR(routes =>
+            {
+                routes.MapHub<Hubs.ChatHub>("/chathub");
+            });
 
             app.UseMvc(routes =>
             {

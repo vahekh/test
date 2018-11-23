@@ -272,3 +272,4 @@ C:\Users\vahek\source\repos\test\WebAppUT\UnitTestProject1\obj\Debug\UnitTestPro
 C:\Users\vahek\source\repos\test\WebAppUT\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
 C:\Users\vahek\source\repos\test\WebAppUT\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 C:\Users\vahek\source\repos\test\WebAppUT\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\vahek\source\repos\test\WebAppUT\UnitTestProject1\bin\Debug\GenericTest1.GenericTest

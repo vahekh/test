@@ -29,3 +29,4 @@ C:\Users\vahek\source\repos\test\WebAppUT\WebAppS\obj\Debug\netcoreapp2.1\WebApp
 C:\Users\vahek\source\repos\test\WebAppUT\WebAppS\obj\Debug\netcoreapp2.1\WebAppS.dll
 C:\Users\vahek\source\repos\test\WebAppUT\WebAppS\obj\Debug\netcoreapp2.1\WebAppS.pdb
 C:\Users\vahek\source\repos\test\WebAppUT\WebAppS\obj\Debug\netcoreapp2.1\WebAppS.csproj.CopyComplete
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppS\obj\Debug\netcoreapp2.1\WebAppS.csprojAssemblyReference.cache

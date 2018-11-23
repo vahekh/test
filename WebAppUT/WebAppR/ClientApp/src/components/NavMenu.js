@@ -35,7 +35,12 @@ export class NavMenu extends Component {
             </LinkContainer>
             <LinkContainer to={'/hello'}>
               <NavItem>
-                            <Glyphicon glyph='th-list' /> Hello Message
+                <Glyphicon glyph='th-list' /> Hello Message
+              </NavItem>
+            </LinkContainer>
+            <LinkContainer to={'/chat'}>
+              <NavItem>
+                <Glyphicon glyph='th-list' /> Chat
               </NavItem>
             </LinkContainer>
           </Nav>
