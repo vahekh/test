@@ -370,7 +370,6 @@ C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\obj\Debug\net461\WebAppSec.c
 C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\obj\Debug\net461\WebAppSec.exe
 C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\obj\Debug\net461\WebAppSec.pdb
 C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\bin\Debug\net461\Microsoft.VisualStudio.Web.BrowserLink.dll
-C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\obj\Debug\net461\UserSecretsAssemblyInfo.cs
 C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\obj\Debug\net461\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
 C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\obj\Debug\net461\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
 C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\obj\Debug\net461\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
@@ -405,3 +404,10 @@ C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\obj\Debug\net461\Razor\Areas
 C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\obj\Debug\net461\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
 C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\obj\Debug\net461\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
 C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\obj\Debug\net461\WebAppSec.csprojAssemblyReference.cache
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\bin\Debug\net461\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\bin\Debug\net461\Microsoft.IdentityModel.Logging.dll
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\bin\Debug\net461\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\bin\Debug\net461\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\bin\Debug\net461\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\bin\Debug\net461\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\obj\Debug\net461\UserSecretsAssemblyInfo.cs

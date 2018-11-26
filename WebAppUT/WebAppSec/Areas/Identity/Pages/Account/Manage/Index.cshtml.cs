@@ -49,13 +49,17 @@ namespace WebAppSec.Areas.Identity.Pages.Account.Manage
 
         public async Task<IActionResult> OnGetAsync()
         {
+            var t_id = _userManager.GetUserId(User);
+            var id = User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier);
+
             var user = await _userManager.GetUserAsync(User);
             if (user == null)
             {
                 return NotFound($"Unable to load user with ID '{_userManager.GetUserId(User)}'.");
             }
+            
 
-            var userName = await _userManager.GetUserNameAsync(user);
+           var userName = await _userManager.GetUserNameAsync(user);
             var email = await _userManager.GetEmailAsync(user);
             var phoneNumber = await _userManager.GetPhoneNumberAsync(user);
 
