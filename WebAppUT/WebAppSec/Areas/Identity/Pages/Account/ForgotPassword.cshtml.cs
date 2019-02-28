@@ -17,10 +17,10 @@ namespace WebAppSec.Areas.Identity.Pages.Account
         private readonly UserManager<User> _userManager;
         private readonly IEmailSender _emailSender;
 
-        public ForgotPasswordModel(UserManager<User> userManager, IEmailSender emailSender)
+        public ForgotPasswordModel(UserManager<User> userManager)//, IEmailSender emailSender
         {
             _userManager = userManager;
-            _emailSender = emailSender;
+            //_emailSender = emailSender;
         }
 
         [BindProperty]

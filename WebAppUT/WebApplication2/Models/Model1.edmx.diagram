@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7315cd72ff60457cabccbc51ca326d4c" Name="Diagram1">
+        <EntityTypeShape EntityType="STC_1Model.RoleClaim" Width="1.5" PointX="3" PointY="0.75" />
+        <EntityTypeShape EntityType="STC_1Model.Role" Width="1.5" PointX="0.75" PointY="1.875" />
+        <EntityTypeShape EntityType="STC_1Model.UserClaim" Width="1.5" PointX="3" PointY="9.75" />
+        <EntityTypeShape EntityType="STC_1Model.UserLogin" Width="1.5" PointX="3" PointY="12.5" />
+        <EntityTypeShape EntityType="STC_1Model.UserRole" Width="1.5" PointX="3" PointY="4" />
+        <EntityTypeShape EntityType="STC_1Model.User" Width="1.5" PointX="0.75" PointY="5.625" />
+        <EntityTypeShape EntityType="STC_1Model.UserToken" Width="1.5" PointX="3" PointY="7" />
+        <AssociationConnector Association="STC_1Model.FK_RoleClaims_Roles_RoleId" />
+        <AssociationConnector Association="STC_1Model.FK_UserRoles_Roles_RoleId" />
+        <AssociationConnector Association="STC_1Model.FK_UserClaims_Users_UserId" />
+        <AssociationConnector Association="STC_1Model.FK_UserLogins_Users_UserId" />
+        <AssociationConnector Association="STC_1Model.FK_UserRoles_Users_UserId" />
+        <AssociationConnector Association="STC_1Model.FK_UserTokens_Users_UserId" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
