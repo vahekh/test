@@ -25,16 +25,22 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="ClientApp\src\app\app-routing.module.ts" />
     <None Remove="ClientApp\src\app\hero-detail\hero-detail.component.ts" />
     <None Remove="ClientApp\src\app\hero.service.ts" />
     <None Remove="ClientApp\src\app\hero.ts" />
+    <None Remove="ClientApp\src\app\message.service.ts" />
+    <None Remove="ClientApp\src\app\messages\messages.component.ts" />
     <None Remove="ClientApp\src\app\mock-heroes.ts" />
   </ItemGroup>
 
   <ItemGroup>
+    <TypeScriptCompile Include="ClientApp\src\app\app-routing.module.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\hero-detail\hero-detail.component.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\hero.service.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\hero.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\message.service.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\messages\messages.component.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\mock-heroes.ts" />
   </ItemGroup>
 
