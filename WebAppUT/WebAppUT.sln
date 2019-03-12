@@ -38,7 +38,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSTTest", "WebSTTest\WebS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebStTest2", "WebStTest2\WebStTest2.csproj", "{0D17633C-A0D1-4DA3-9BDB-F6E0D50100A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppA", "WebAppA\WebAppA.csproj", "{5DC07CB4-2D90-4059-A06C-BA2EF2D24703}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAppA", "WebAppA\WebAppA.csproj", "{5DC07CB4-2D90-4059-A06C-BA2EF2D24703}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatingApp.API", "DatingApp.API\DatingApp.API.csproj", "{2A70694A-7BDE-4120-8EBB-05111359A695}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp-SPA", "DatingApp-SPA\DatingApp-SPA.csproj", "{380C1F0F-1A0F-48B0-819F-46A1738E9CB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -110,6 +114,14 @@ Global
 		{5DC07CB4-2D90-4059-A06C-BA2EF2D24703}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DC07CB4-2D90-4059-A06C-BA2EF2D24703}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DC07CB4-2D90-4059-A06C-BA2EF2D24703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A70694A-7BDE-4120-8EBB-05111359A695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A70694A-7BDE-4120-8EBB-05111359A695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A70694A-7BDE-4120-8EBB-05111359A695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A70694A-7BDE-4120-8EBB-05111359A695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{380C1F0F-1A0F-48B0-819F-46A1738E9CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380C1F0F-1A0F-48B0-819F-46A1738E9CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380C1F0F-1A0F-48B0-819F-46A1738E9CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380C1F0F-1A0F-48B0-819F-46A1738E9CB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

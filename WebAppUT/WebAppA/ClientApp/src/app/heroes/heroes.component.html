@@ -6,3 +6,6 @@
     </a>
   </li>
 </ul>
+<div>
+  <input #newHero (keyup.enter)="addHero(newHero.value)" (blur)="addHero(newHero.value); newHero.value='' ">
+</div>

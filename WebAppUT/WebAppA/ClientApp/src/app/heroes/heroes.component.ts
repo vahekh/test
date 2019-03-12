@@ -21,4 +21,15 @@ export class HeroesComponent implements OnInit {
     this.heroService.getHeroes()
       .subscribe(heroes => this.heroes = heroes);
   }
+
+  //onKey(event: any) { 
+  //  this.values += event.target.value + ' | ';
+  //}
+  addHero(newHero: string) {
+    if (newHero) {
+      let hero1 = new Hero();
+      hero1.name = newHero;
+      this.heroes.push(hero1);
+    }
+  }
 }
