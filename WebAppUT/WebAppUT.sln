@@ -26,8 +26,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAppRR", "WebAppRR\WebApp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAppSec", "WebAppSec\WebAppSec.csproj", "{27394B26-70A6-4277-AFA2-3F69A65081C6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAppSec3", "WebAppSec3\WebAppSec3.csproj", "{1B39DEBB-F24A-4B65-B635-8B200551E099}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{E2CA1361-30C6-48BD-A7FC-C3126D4BE49D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp22", "WebApp22\WebApp22.csproj", "{87A3E7DC-E637-4FC4-BBF5-5880075B3A56}"
@@ -42,7 +40,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAppA", "WebAppA\WebAppA.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatingApp.API", "DatingApp.API\DatingApp.API.csproj", "{2A70694A-7BDE-4120-8EBB-05111359A695}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp-SPA", "DatingApp-SPA\DatingApp-SPA.csproj", "{380C1F0F-1A0F-48B0-819F-46A1738E9CB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatingApp-SPA", "DatingApp-SPA\DatingApp-SPA.csproj", "{380C1F0F-1A0F-48B0-819F-46A1738E9CB2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAppCore", "WebAppCore\WebAppCore.csproj", "{EF7F0688-E670-4B99-99CD-62DFD3E02D76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -86,10 +86,6 @@ Global
 		{27394B26-70A6-4277-AFA2-3F69A65081C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27394B26-70A6-4277-AFA2-3F69A65081C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27394B26-70A6-4277-AFA2-3F69A65081C6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1B39DEBB-F24A-4B65-B635-8B200551E099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1B39DEBB-F24A-4B65-B635-8B200551E099}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1B39DEBB-F24A-4B65-B635-8B200551E099}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1B39DEBB-F24A-4B65-B635-8B200551E099}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E2CA1361-30C6-48BD-A7FC-C3126D4BE49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E2CA1361-30C6-48BD-A7FC-C3126D4BE49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2CA1361-30C6-48BD-A7FC-C3126D4BE49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -122,6 +118,10 @@ Global
 		{380C1F0F-1A0F-48B0-819F-46A1738E9CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{380C1F0F-1A0F-48B0-819F-46A1738E9CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{380C1F0F-1A0F-48B0-819F-46A1738E9CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF7F0688-E670-4B99-99CD-62DFD3E02D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7F0688-E670-4B99-99CD-62DFD3E02D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7F0688-E670-4B99-99CD-62DFD3E02D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7F0688-E670-4B99-99CD-62DFD3E02D76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -331,3 +331,4 @@ C:\Users\vahek\source\repos\test\WebAppUT\WebApp22\bin\Debug\net461\System.Xml.X
 C:\Users\vahek\source\repos\test\WebAppUT\WebApp22\bin\Debug\net461\System.Xml.XPath.XDocument.dll
 C:\Users\vahek\source\repos\test\WebAppUT\WebApp22\obj\Debug\net461\WebApp22.Views.pdb
 C:\Users\vahek\source\repos\test\WebAppUT\WebApp22\obj\Debug\net461\WebApp22.csproj.CopyComplete
+C:\Users\vahek\source\repos\test\WebAppUT\WebApp22\obj\Debug\net461\WebApp22.csprojAssemblyReference.cache

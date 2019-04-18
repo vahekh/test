@@ -410,4 +410,9 @@ C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\bin\Debug\net461\Microsoft.I
 C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\bin\Debug\net461\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\bin\Debug\net461\Microsoft.IdentityModel.Tokens.dll
 C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\bin\Debug\net461\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\bin\Debug\net461\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\bin\Debug\net461\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\bin\Debug\net461\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\bin\Debug\net461\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\bin\Debug\net461\System.Net.WebSockets.WebSocketProtocol.dll
 C:\Users\vahek\source\repos\test\WebAppUT\WebAppSec\obj\Debug\net461\UserSecretsAssemblyInfo.cs
