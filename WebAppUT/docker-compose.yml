@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  webappd:
+    image: ${DOCKER_REGISTRY-}webappd
+    build:
+      context: .
+      dockerfile: WebAppD\Dockerfile

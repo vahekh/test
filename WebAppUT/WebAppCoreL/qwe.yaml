@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: qwe
+spec:
+  selector:
+    matchLabels:
+      run: qwe
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        run: qwe
+    spec:
+      containers:
+      - name: qwe
+        image: silverbush.azurecr.io/aks:latest
+        ports:
+        - containerPort: 80
+      nodeName: agentpool

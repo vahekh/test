@@ -1,0 +1,17 @@
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppD\obj\Debug\netcoreapp2.2\WebAppD.AssemblyInfoInputs.cache
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppD\obj\Debug\netcoreapp2.2\WebAppD.AssemblyInfo.cs
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppD\bin\Debug\netcoreapp2.2\WebAppD.deps.json
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppD\bin\Debug\netcoreapp2.2\WebAppD.runtimeconfig.json
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppD\bin\Debug\netcoreapp2.2\WebAppD.runtimeconfig.dev.json
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppD\bin\Debug\netcoreapp2.2\WebAppD.dll
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppD\bin\Debug\netcoreapp2.2\WebAppD.pdb
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppD\obj\Debug\netcoreapp2.2\WebAppD.RazorAssemblyInfo.cache
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppD\obj\Debug\netcoreapp2.2\WebAppD.RazorAssemblyInfo.cs
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppD\obj\Debug\netcoreapp2.2\WebAppD.RazorTargetAssemblyInfo.cache
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppD\obj\Debug\netcoreapp2.2\WebAppD.dll
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppD\obj\Debug\netcoreapp2.2\WebAppD.pdb
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppD\obj\Debug\netcoreapp2.2\WebAppD.csprojAssemblyReference.cache
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppD\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppD\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppD\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\vahek\source\repos\test\WebAppUT\WebAppD\bin\Debug\netcoreapp2.2\Dockerfile

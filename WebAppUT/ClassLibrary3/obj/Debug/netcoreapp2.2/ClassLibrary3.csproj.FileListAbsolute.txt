@@ -1,0 +1,8 @@
+C:\Users\vahek\source\repos\test\WebAppUT\ClassLibrary3\bin\Debug\netcoreapp2.2\ClassLibrary3.deps.json
+C:\Users\vahek\source\repos\test\WebAppUT\ClassLibrary3\bin\Debug\netcoreapp2.2\ClassLibrary3.dll
+C:\Users\vahek\source\repos\test\WebAppUT\ClassLibrary3\bin\Debug\netcoreapp2.2\ClassLibrary3.pdb
+C:\Users\vahek\source\repos\test\WebAppUT\ClassLibrary3\obj\Debug\netcoreapp2.2\ClassLibrary3.csprojAssemblyReference.cache
+C:\Users\vahek\source\repos\test\WebAppUT\ClassLibrary3\obj\Debug\netcoreapp2.2\ClassLibrary3.AssemblyInfoInputs.cache
+C:\Users\vahek\source\repos\test\WebAppUT\ClassLibrary3\obj\Debug\netcoreapp2.2\ClassLibrary3.AssemblyInfo.cs
+C:\Users\vahek\source\repos\test\WebAppUT\ClassLibrary3\obj\Debug\netcoreapp2.2\ClassLibrary3.dll
+C:\Users\vahek\source\repos\test\WebAppUT\ClassLibrary3\obj\Debug\netcoreapp2.2\ClassLibrary3.pdb

@@ -103,7 +103,6 @@ C:\Users\vahek\source\repos\test\WebAppUT\WebApplication2\bin\System.Diagnostics
 C:\Users\vahek\source\repos\test\WebAppUT\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 C:\Users\vahek\source\repos\test\WebAppUT\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\vahek\source\repos\test\WebAppUT\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
-C:\Users\vahek\source\repos\test\WebAppUT\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
 C:\Users\vahek\source\repos\test\WebAppUT\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
 C:\Users\vahek\source\repos\test\WebAppUT\WebApplication2\obj\Debug\WebApplication2.dll
 C:\Users\vahek\source\repos\test\WebAppUT\WebApplication2\obj\Debug\WebApplication2.pdb

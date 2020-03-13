@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: redis-master
+  annotations:
+    service.beta.kubernetes.io/azure-load-balancer-internal: "true"
+  labels:
+    app: redis
+    role: master
+    tier: backend
+spec:
+  ports:
+  - port: 6379
+    targetPort: 6379
+  selector:
+    app: redis
+    role: master
+    tier: backend
+  type: LoadBalancer

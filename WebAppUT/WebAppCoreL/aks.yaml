@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-aks
+spec:
+  selector:
+    matchLabels:
+      run: my-aks
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        run: my-aks
+    spec:
+      containers:
+      - name: my-aks
+        image: silverbush.azurecr.io/aks:latest
+        ports:
+        - containerPort: 80

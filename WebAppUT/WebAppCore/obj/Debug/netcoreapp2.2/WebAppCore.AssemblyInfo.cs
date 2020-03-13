@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-WebAppCore-3686E213-69C0-41D4-895F-98B3AF2D9238")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("7391207c-04f9-410f-bf16-6a9b44aa33f8")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAppCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

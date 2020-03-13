@@ -1,7 +1,6 @@
 C:\Users\vahek\source\repos\test\WebAppUT\WebAndLoadTestProject1\bin\Debug\WebTest1.webtest
 C:\Users\vahek\source\repos\test\WebAppUT\WebAndLoadTestProject1\bin\Debug\WebAndLoadTestProject1.dll
 C:\Users\vahek\source\repos\test\WebAppUT\WebAndLoadTestProject1\bin\Debug\WebAndLoadTestProject1.pdb
-C:\Users\vahek\source\repos\test\WebAppUT\WebAndLoadTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
 C:\Users\vahek\source\repos\test\WebAppUT\WebAndLoadTestProject1\obj\Debug\WebAndLoadTestProject1.csprojAssemblyReference.cache
 C:\Users\vahek\source\repos\test\WebAppUT\WebAndLoadTestProject1\obj\Debug\WebAndLoadTestProject1.csproj.CoreCompileInputs.cache
 C:\Users\vahek\source\repos\test\WebAppUT\WebAndLoadTestProject1\obj\Debug\WebAndLoadTestProject1.csproj.CopyComplete

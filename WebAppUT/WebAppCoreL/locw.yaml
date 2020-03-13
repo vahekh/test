@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: locw
+spec:
+  selector:
+    matchLabels:
+      run: locw
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        run: locw
+    spec:
+      containers:
+      - name: locw
+        image: silverbush.azurecr.io/aksw:latest
+        ports:
+        - containerPort: 80
+      nodeName: npwin1

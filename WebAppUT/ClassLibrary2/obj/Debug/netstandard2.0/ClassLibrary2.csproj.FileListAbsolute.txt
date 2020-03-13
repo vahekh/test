@@ -1,0 +1,8 @@
+C:\Users\vahek\source\repos\test\WebAppUT\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\vahek\source\repos\test\WebAppUT\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.AssemblyInfo.cs
+C:\Users\vahek\source\repos\test\WebAppUT\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.deps.json
+C:\Users\vahek\source\repos\test\WebAppUT\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.dll
+C:\Users\vahek\source\repos\test\WebAppUT\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.pdb
+C:\Users\vahek\source\repos\test\WebAppUT\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.dll
+C:\Users\vahek\source\repos\test\WebAppUT\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.pdb
+C:\Users\vahek\source\repos\test\WebAppUT\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.csprojAssemblyReference.cache

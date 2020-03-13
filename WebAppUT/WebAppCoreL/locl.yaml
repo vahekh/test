@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: locl
+spec:
+  selector:
+    matchLabels:
+      run: locl
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        run: locl
+    spec:
+      containers:
+      - name: locl
+        image: webappcorel:dev
+        ports:
+        - containerPort: 80
