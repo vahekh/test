@@ -6,6 +6,8 @@ metadata:
     app: redis
     role: master
     tier: backend
+  annotations:
+    service.beta.kubernetes.io/azure-load-balancer-internal: "true"
 spec:
   ports:
   - port: 6379

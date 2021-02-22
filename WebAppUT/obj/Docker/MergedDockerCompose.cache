@@ -1,7 +1,7 @@
 networks:
   default:
-    external:
-      name: nat
+    external: true
+    name: nat
 services:
   webappd:
     build:

@@ -10715,13 +10715,13 @@
         "net461"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://nuget.devexpress.com/tjyMe9lbboxgnnkEdC6jVGpBaUhwrITOrWXx1OWq7gwnQNXL4S/api": {}
       },
       "frameworks": {
         "net461": {
+          "targetAlias": "net461",
           "projectReferences": {}
         }
       },
@@ -10733,6 +10733,7 @@
     },
     "frameworks": {
       "net461": {
+        "targetAlias": "net461",
         "dependencies": {
           "Microsoft.AspNetCore": {
             "target": "Package",
@@ -10797,7 +10798,7 @@
             "version": "[2.1.6, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
